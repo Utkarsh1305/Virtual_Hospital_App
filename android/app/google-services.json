@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327334871856",
+    "project_id": "virtual-swaahth",
+    "storage_bucket": "virtual-swaahth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327334871856:android:a1bd80dafe26d6810b3ef5",
+        "android_client_info": {
+          "package_name": "com.sumit.virtual_swaahth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAKVzdej8P3LJTRioaT6qBH2-FnV2-SqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
